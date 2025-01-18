@@ -268,6 +268,7 @@ const styles = StyleSheet.create({
     padding: 10,
     marginBottom: 10,
     borderRadius: 5,
+    color:"#000"
   },
   inputArea: {
     height: 80,
@@ -277,6 +278,7 @@ const styles = StyleSheet.create({
     marginBottom: 10,
     borderRadius: 5,
     textAlignVertical: 'top',
+    color:"#000"
   },
   taskItem: {
     flexDirection: 'row',
